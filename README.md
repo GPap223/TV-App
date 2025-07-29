@@ -76,10 +76,8 @@ in the Software without restriction...
 
 ## 👨‍💻 Author
 
-- **Name:** Your Full Name  
-- **GitHub:** [@your-username](https://github.com/your-username)  
-- **Email:** your.email@example.com
-
+- **Name:** George
+- **GitHub:** [Double Tap Here](https://github.com/GPap223)  
 ---
 
 ## ⭐ Want to contribute?
